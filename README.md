@@ -7,3 +7,7 @@ It is useful to make sure you understand the vocabulary. For example you may hav
 that have very different meanings in the context of the problem.
 
 Secondly when attacking a problem it is useful to break it up to smaller pieces.
+
+## Examples of problems
+
+A Wishlist System - blah blah blah
